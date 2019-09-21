@@ -1,0 +1,24 @@
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.csprojAssemblyReference.cache
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\MainWindow.g.cs
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\App.g.cs
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF_MarkupCompile.cache
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF_MarkupCompile.lref
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK WPF.exe.config
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK WPF.exe
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK WPF.pdb
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK.dll
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK.GLControl.dll
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK.pdb
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK.xml
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK.GLControl.pdb
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\OpenTK.GLControl.xml
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\MainWindow.baml
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.g.resources
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK_WPF.Properties.Resources.resources
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.csproj.GenerateResource.cache
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.csproj.CoreCompileInputs.cache
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.csproj.CopyComplete
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.exe
+E:\桌面\OpenTK WPF\OpenTK WPF\obj\Debug\OpenTK WPF.pdb
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\Shaders\FragmentShader.GLSL
+E:\桌面\OpenTK WPF\OpenTK WPF\bin\Debug\Shaders\VertexShader.GLSL
